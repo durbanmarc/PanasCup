@@ -1,0 +1,10 @@
+#######################################
+TUTORIAL - HOW TO LOOP MUSIC
+#######################################
+
+1) Tener un archivo .mp3 con la musica (puedes descargarlo de Youtube con un coverter to mp3)
+2) Audacity -> poner el archivo
+3) Quedarse con LOOPSTART y LOOPLENGTH de la parte que queremos loopear
+4) EXPORTAR ARCHIVO to OGG
+5) AÑADIR etiquetas LOOPSTART y LOOPLENGTH en la exportación
+6) done :P puedes usar la musica ya

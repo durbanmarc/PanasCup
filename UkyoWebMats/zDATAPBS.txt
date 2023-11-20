@@ -1,0 +1,27 @@
+{num: 664, name: "WISP", type1: "FIGHTING", type2: "GHOST", evo: null, descrip: "El Pokémon ninja. No te dejes sorprender por su tamaño, tiene un enorme arsenal de trucos y técnicas."}
+
+{num: 682, name: "FIRGUERO", type1: "FIRE", type2: "NORMAL", evo: 35, descrip: "El Pokémon oso hormiguero. Suele esconderse de la gente y come lo que encuentra con su larga trompa."}
+{num: 683, name: "FIRGGAR", type1: "FIRE", type2: "NORMAL", evo: null, descrip: "Su pelaje es duro y sus garras afiladas. Suele vivir solitariamente."}
+{num: 684, name: "BYTEAR", type1: "ELECTRIC", type2: "NORMAL", evo: 25, descrip: "Su cola en forma de enchufe le permite cargarse de electricidad rápidamente."}
+{num: 685, name: "GYBEAR", type1: "ELECTRIC", type2: "NORMAL", evo: null, descrip: "Sus puños se electrifican cuando está cargado. Esto le permite elecrificar a sus enemigos a la vez que suelta puñetazos devastadores."}
+{num: 690, name: "SAUNTER", type1: "POISON", type2: "FLYING", evo: 22, descrip: "El Pokémon murciélago. Suele vivir en los techos de las cuevas."}
+{num: 691, name: "GREVETIERY", type1: "POISON", type2: "FLYING", evo: null, descrip: "Odia la luz solar. Vive en la oscuridad de las cuevas, donde aterroriza a todo lo que se le acerca."}
+{num: 692, name: "TROY", type1: "GRASS", type2: null, evo: 25, descrip: "Troy es un brote que crecera fuerte como un roble cuando este preparado."}
+{num: 693, name: "TRUMABLE", type1: "GRASS", type2: null, evo: null, descrip: "Su tronco es de una madera increiblemente resistente. Suelen llamarles los guardianes del bosque."}
+{num: 694, name: "JOLTIK FORMA ASTHAR", type1: "BUG", type2: "DARK", evo: 36, descrip: "El Pokémon garrapata. Suele vivir enganchado a Pokémons más grandes."}
+{num: 695, name: "MAGNEMITE FORMA ASTHAR", type1: "BUG", type2: "DARK", evo: null, descrip: "Sus poderosas telarañas pueden inmovilizar a cualquier Pokémon."}
+{num: 696, name: "BARY", type1: "ELECTRIC", type2: "STEEL", evo: 28, descrip: "El Pokémon pila. Estos pequeños pokémon se alimentan de electricidad. Por este motivo viven cerca de centrales eléctricas."}
+{num: 697, name: "BARYON", type1: "ELECTRIC", type2: "STEEL", evo: null, descrip: "Es comunmente conocido como la "ultra pila". Su capacidad de almacenaje de electricidad es superior a cualquier otro Pokémon."}
+{num: 699, name: "ERAMY", type1: "FIGHTING", type2: null, evo: 35, descrip: "El Pokémon espadachin. Se pasa el día cortando pequeños brotes para fortalecerse."}
+{num: 700, name: "ERATEL", type1: "FIGHTING", type2: "STEEL", evo: null, descrip: "El Pokémon espadachin. Entrena duramente y le gusta defender a los Pokémon más débiles."}
+{num: 701, name: "VRAX", type1: "ROCK", type2: "DRAGON", evo: 25, descrip: "La cria dragon roca. No lo molestes o podrías llevarte un disgusto con alguno de sus parientes."}
+{num: 702, name: "DIKSTRA", type1: "ROCK", type2: "DRAGON", evo: null, descrip: "El Pokémon dragón de roca, este reptil volador es uno de los reyes de la cadena alimentaria en las cuevas más cercanas a la superfície."}
+{num: 703, name: "FOSSORAT", type1: "DARK", type2: "GROUND", evo: 24, descrip: "El Pokémon rata. Suelen vivir en las cuevas pero salen para comer los restos dejados por los humanos."}
+{num: 704, name: "FOSSOSTOR", type1: "DARK", type2: "GROUND", evo: null, descrip: "Sus largos dientes y garras le permiten defenderse cuando se encuentran en problemas."}
+{num: 711, name: "MAGNEMITE FORMA ASTHAR", type1: "GRASS", type2: "STEEL", evo: 30, descrip: "Su apariencia muy similar a la de un arbusto le permite camuflarse con facilidad."}
+{num: 712, name: "MAGNETON FORMA ASTHAR", type1: "GRASS", type2: "STEEL", evo: null, descrip: "Si ves unos arbustos volando no te asustes no estás alucinando. Probablemente sea un Magneton Forma Asthar."}
+{num: 713, name: "MOREROCK", type1: "ROCK", type2: null, evo: null, descrip: "El Pokémon roca flotante. Suele jugar a asustar a los viajeros que cruzan las cuevas."}
+{num: 719, name: "CRABCIFE", type1: "WATER", type2: "ROCK", evo: null, descrip: "El Pokémon cangrejo. Sumergido en el agua pasa desapercibido como un arecife de coral."}
+{num: 724, name: "EKANS FORMA ASTHAR", type1: "POISON", type2: "GROUND", evo: 28, descrip: "El Pokémon serpiente, el color y tipo que adopta en la región de Asthar le permite camuflarse en los bancos de arena."}
+{num: 725, name: "ARBOK FORMA ASTHAR", type1: "POISON", type2: "GROUND", evo: null, descrip: "Intimida a sus presas con los temibles dibujos de su capucha."}
+{num: 757, name: "MEKO", type1: "GHOST", type2: "PSYCHIC", evo: null, descrip: "El Pokémon gato hechizero. Es uno de los Pokémon de rareza MÍTICA de la región de Asthar."}

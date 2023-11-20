@@ -1,0 +1,41 @@
+﻿[0]
+Name=Asthar Region
+Filename=mapRegion0.png
+Point=12,17,"Pueblo Cupio","Laboratorio Pokemon",76,14,11,
+Point=11,15,"RUTA 1",,,,,
+Point=11,16,"RUTA 1",,,,,
+Point=11,17,"RUTA 1",,,,,
+Point=11,14,"Pueblo Parte",,43,22,11,
+Point=12,14,"RUTA 2",,,,,
+Point=13,14,"RUTA 2",,,,,
+Point=12,15,"RUTA 2",,,,,
+Point=13,15,"RUTA 2",,,,,
+Point=14,15,"RUTA 2",,,,,
+Point=12,13,"Cueva Puz",,,,,
+Point=14,14,"Cueva Milagro",,,,,
+Point=15,14,"Ciudad Rascal","Gym Roca",,,,
+Point=16,14,"Ciudad Rascal","Gym Roca",82,29,28,
+Point=17,14,"Cueva Aratusta",,,,,
+Point=17,13,"RUTA 3",,,,,
+Point=17,12,"RUTA 3",,,,,
+Point=17,11,"RUTA 3",,,,,
+Point=18,14,"El Apeadero",,95,13,13,
+Point=19,14,"Bosque Travieso","Almacen de Cosecha",,,,
+Point=20,14,"Bosque Travieso","Almacen de Cosecha",,,,
+Point=21,14,"Ciudad Flora","Gym Planta",,,,
+Point=21,15,"Ciudad Flora","Gym Planta",97,51,28,
+Point=18,11,"Ciudad Casus","Gym Electrico",,,,
+Point=19,11,"Ciudad Casus","Gym Electrico",104,42,18,
+Point=19,10,"Ruta 4",,,,,
+Point=19,9,"Ruta 4",,,,,
+Point=18,9,"Ruta 4",,,,,
+Point=17,9,"Ruta 4",,,,,
+Point=16,9,"Villa Lujo","Grifería",115,19,19,
+[1]
+Name=Tiall Region
+Filename=mapRegion1.png
+Point=13,16,"Here",,,,,
+[2]
+Name=Region Asthar
+Filename=mapRegion2.png
+Point=13,16,"Here",,,,,

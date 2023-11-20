@@ -1,0 +1,50 @@
+									
+					linea = bf.readLine(); //Internal Name
+					
+					/******** POKE TYPE1 *******************************************************************/
+					linea = bf.readLine(); //Type
+					String Xpoketype = "";
+					i = 6;
+					while(i < linea.length()){
+						Xpoketype += linea.charAt(i);
+						i++;
+					}
+					
+					databit = add2Vec(databit, Xpoketype);
+					databit = add2Vec(databit, Xpoketype);
+					
+					/********************/
+					
+					linea = bf.readLine(); //NEXT LINE
+					if(linea.charAt(0) == 'T') {
+						i = 6;
+						Xpoketype += " - ";
+						while(i < linea.length()){
+							Xpoketype += linea.charAt(i);
+							i++;
+						}						
+						linea = bf.readLine(); //Base Stats
+					}
+					if(Xpoketype.length() < 8)	Xpoketype +='\t';
+					if(Xpoketype.length() < 16)	Xpoketype +='\t';
+					
+					i = 10;
+					String XpokeBaseStats = "";
+					while(i < linea.length()){
+						XpokeBaseStats += linea.charAt(i);
+						i++;
+					}
+					
+					while((linea = bf.readLine()) != null) {
+						if(linea.charAt(0) == 'E' & linea.charAt(1) == 'v') break;
+					}
+					
+					i = 11;
+					String XpokeEvo = "";
+					while(i < linea.length()){
+						XpokeEvo += linea.charAt(i);
+						i++;
+					}
+					if(XpokeEvo.length() < 8)	XpokeEvo +='\t';
+					if(XpokeEvo.length() < 16)	XpokeEvo +='\t';
+					if(XpokeEvo.length() < 24)	XpokeEvo +='\t'; 
